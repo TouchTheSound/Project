@@ -1,0 +1,1 @@
+Tempo,Valeur en bpm (Doit etre supérieur au delay);Delay,Pourcentage du temps que la led passe allumée
