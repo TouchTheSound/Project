@@ -1,0 +1,1 @@
+Level min, Niveau minimum de detection de l'attaque;Frequence, Frequence d'oscillation de l'attaque

@@ -1,0 +1,1 @@
+Sens,0 pour le premier sens (main -> coude) et 1 pour le sens de vibration inverse

@@ -1,0 +1,27 @@
+<?php
+
+	$len=count($ListPatches);
+	$i=0;
+	for($i=0;$i<$len;$i++){
+		if($ListPatches[$i]!="." && $ListPatches[$i]!
+			?>
+			<form action="index.php" methode="post">
+				<input type="hidden" name="nom" value=$name> 
+				<p><input type="submit" value="$ListPatches[$i]"></p>
+
+			</form>
+				<?php //echo("$ListPatches[$i]"); 
+				?>
+			<?php
+		}
+	}
+	/*for($i=1; i<$len; $i++){
+		echo $ListPatches[$i];
+	}*/
+	/*foreach($ListPatches as $File){
+		i++;
+		echo($File);
+		echo($i);
+	}*/
+	//print_r($ListPatches);
+?>

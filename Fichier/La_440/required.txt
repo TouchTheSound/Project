@@ -1,0 +1,1 @@
+Frequence, select the frequence of the signal

@@ -1,0 +1,1 @@
+tempo, (bpm) donne la vitesse d'allumage des vibreurs; delay, donne le temps le temps d'allumage de chaque vibreur pour un certain tempo (0-100%)
